@@ -1,6 +1,9 @@
 import config from 'next/config';
 /* @type {import('tailwindcss').Config} */
 
+// https://tailwindcss.com/docs/configuration
+
+/* The code is exporting a configuration object for the Tailwind CSS framework. */
 module.exports = {
   darkMode: 'class',
   content: [
